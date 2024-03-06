@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\Vaslui CODE\OOP_Lab2\OOP_Lab2\main.cpp(8,13): warning C4101: 'myclass': unreferenced local variable
+  NumberList.cpp
+C:\Users\Acer\Desktop\Vaslui CODE\OOP_Lab2\OOP_Lab2\NumberList.cpp(21,9): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  OOP_Lab2.vcxproj -> C:\Users\Acer\Desktop\Vaslui CODE\OOP_Lab2\Debug\OOP_Lab2.exe
